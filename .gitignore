@@ -1,27 +1,7 @@
-# Database files
 *.db
-
-# Excel exports
 *.xlsx
-
-# Python
+*.log
 __pycache__/
 *.pyc
-*.pyo
-.venv/
-venv/
-
-# IDE
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Temp
-*.log
-*.png
-*.json
-detail_*.html
-extract_*.txt
+node_modules/
+raw_*.html
